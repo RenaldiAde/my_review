@@ -1,0 +1,10 @@
+.outer{
+    width: 100vh;
+    height: auto;
+    min-height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 20px;
+    background-color: azure;
+}
